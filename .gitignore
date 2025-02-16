@@ -17,3 +17,5 @@ storage/skinhist/*
 /storage/savefavoritequest/*
 /storage/scenariodata/*
 tmp
+
+config.php
